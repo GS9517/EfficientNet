@@ -24,12 +24,12 @@ This project explores three variants of the EfficientNet model for classifying a
 
 ## Requirements
 
-- Python 3.x
-- PyTorch & torchvision
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
+- Python 3.7 or higher
+- PyTorch 1.7.0 or higher & torchvision
+- numpy 1.18 or higher
+- matplotlib 3.1 or higher
+- seaborn 0.11 or higher
+- scikit-learn 0.24 or higher
 - tqdm
 - Pillow (PIL)
 - kagglehub (for dataset download)
